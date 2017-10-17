@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 #filename:setup
 
-__author__ = 'yibai'
+__author__ = 'shomop'
 from setuptools import setup, find_packages
 
 setup(
