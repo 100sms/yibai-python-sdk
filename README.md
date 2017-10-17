@@ -4,7 +4,7 @@ The python sdk of https://www.100sms.cn/
  - 模块安装
  ```
  1. 将yibai-sms-python-sdk-1.0.0文件夹添加到python安装目录
- 2. 打开cmd进入该目录下执行：python setup.py install
+ 2. 进入该文件夹下执行：python setup.py install
  ```
 
  - 代码调用示例
