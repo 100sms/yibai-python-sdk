@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 #filename:setup
 
-__author__ = 'yibai'
+__author__ = 'shomop'
 from setuptools import setup, find_packages
 
 setup(
@@ -12,8 +12,8 @@ setup(
 	license = 'MIT License',
     install_requires = ['requests>=2.9.1'],
 
-    author = 'yibai',
-    author_email = 'developer@yibai.com',
+    author = 'shomop',
+    author_email = 'developer@shomop.com',
     packages = find_packages(),
     platforms = 'any',
 )
