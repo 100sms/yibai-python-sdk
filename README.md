@@ -57,3 +57,5 @@ def test_sms_pull_reply_message():
 test_sms_pull_reply_message()
 
 ```
+# 注意事项
+ - 详细api文档请参考<a target="_blank" href="https://web.100sms.cn/api1.0/document">https://web.100sms.cn/api1.0/document</a>
