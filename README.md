@@ -1,10 +1,9 @@
 # yibai-python-sdk
 The python sdk of https://www.100sms.cn/
 
- - 模块安装
+ - 安装sdk
  ```
- 1. 将yibai-sms-python-sdk-1.0.0文件夹添加到python安装目录
- 2. 进入该文件夹下执行：python setup.py install
+ pip install yibai-sms-python-sdk
  ```
 
  - 代码调用示例
