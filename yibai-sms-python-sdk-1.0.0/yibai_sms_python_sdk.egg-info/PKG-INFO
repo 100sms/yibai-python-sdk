@@ -1,11 +1,11 @@
 Metadata-Version: 1.0
 Name: yibai-sms-python-sdk
 Version: 1.0.0
-Summary: yibai-sms-python-sdk
+Summary: yibai python sdk
 Home-page: UNKNOWN
-Author: yibai
-Author-email: developer@yibai.com
-License: MIT License
+Author: shomop
+Author-email: lanran@shomop.com
+License: MIT
 Description: UNKNOWN
-Keywords: yibai,sdk,python
+Keywords: yibai,sms,sdk
 Platform: any

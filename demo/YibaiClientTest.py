@@ -4,7 +4,7 @@ import json
 from yibai.api import *
 
 server_url = 'https://sms.100sms.cn/api'
-#此处为你的apikey，可登录http://web.100sms.cn/ 查看你的apikey
+#此处为你的apikey，可登录https://web.100sms.cn/ 查看你的apikey
 apikey = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 client = YibaiClient(server_url, apikey)
 
