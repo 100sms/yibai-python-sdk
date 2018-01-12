@@ -1,3 +1,4 @@
+setup.cfg
 setup.py
 yibai/__init__.py
 yibai/api/HttpUtils.py

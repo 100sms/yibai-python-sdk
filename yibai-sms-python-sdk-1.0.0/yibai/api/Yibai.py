@@ -23,6 +23,9 @@ class YibaiClient(object):
     def sms_pull_reply_message(self):
         return self.__execute({}, '/sms/pullReply')
 
+    def user_info(self):
+        return self.__execute({}, '/user/info')
+
     def __execute(self, request, url_path):
         request['apikey'] = self.apikey
         req_url = self.serverUrl + url_path
