@@ -14,8 +14,8 @@ The python sdk of https://www.100sms.cn/
 import json
 from yibai.api import *
 
-server_url = 'https://sms.100sms.cn/api'
-#此处为你的apikey，可登录web.100sms.cn 查看你的apikey
+server_url = 'https://xxxxxxx/api'
+#此处为你的apikey，可登录网站查看你的apikey
 apikey = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 client = YibaiClient(server_url, apikey)
 
