@@ -58,4 +58,4 @@ test_sms_pull_reply_message()
 ```
 # 注意事项
  - demo中的PythonSmsApiSample.py为非sdk调用示例,仅供测试接口,实际使用推荐sdk调用
- - 详细api文档请参考https://www.100sms.cn/api1.0/document
+ - 详细api文档请参考https://www.100sms.cn/helpSupports
